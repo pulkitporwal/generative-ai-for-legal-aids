@@ -1,0 +1,8 @@
+langchain_core
+langchain_community
+pypdf
+chromadb
+faiss-cpu
+pinecone-client
+streamlit
+langchain-ollama
